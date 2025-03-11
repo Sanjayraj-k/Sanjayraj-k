@@ -81,13 +81,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/jeyachandranj/TalenLens.git">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjayraj-k&repo=Fitness-tracker &theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="TalenLens" />
-        </a>
-      </p>
-    </td>
+  <h3 align="center"><strong>Linkedin Sᴛᴀᴛs</strong></h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sanjayraj-k/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Profile" />
+    </a>
+  </p>
+</td>
+
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
