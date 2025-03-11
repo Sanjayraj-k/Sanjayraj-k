@@ -68,7 +68,7 @@
     <img src="./gmail.png" width="50" height="50" alt="j.jeyachandran072@gmail.com" />
   </a>
   <a href="https://www.instagram.com/jeyan572" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="jeyan572" />
+    <img src="./instagram (1).png" width="50" height="50" alt="jeyan572" />
   </a>
   <a href="https://www.github.com/jeyachandranj" target="_blank">
     <img src="./github.png" width="50" height="50" alt="jeyachandranj" />
@@ -79,8 +79,7 @@
   <a href="https://leetcode.com/u/jeyachandran72/" target="_blank">
     <img src="./leetcode.png" width="50" height="50" alt="jeyachandran72" />
   </a>
-  <a href="https://www.hackerrank.com/profile/jeyachandran72" target="_blank">
-    <img src="./hackerrank.png" width="50" height="50" alt="jeyachandran72" />
+  
   </a>
 </div>
 
