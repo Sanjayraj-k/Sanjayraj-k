@@ -73,7 +73,7 @@
   <a href="https://github.com/Sanjayraj-k" target="_blank">
     <img src="./github (1).png" width="50" height="50" alt="Sanjay k" />
   </a>
-  <a href="www.linkedin.com/in/sanjayraj-k" target="_blank">
+  <a href="https://www.linkedin.com/in/sanjayraj-k/" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
   </a>
   <a href="https://leetcode.com/u/Sanjayrajk/" target="_blank">
