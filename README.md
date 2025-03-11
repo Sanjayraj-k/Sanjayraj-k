@@ -89,7 +89,7 @@
   </p>
 </td>
   <td>
-    ![](https://leetcard.jacoblin.cool/Sanjayrajk?ext=contest)
+    <img src="https://leetcard.jacoblin.cool/Sanjayrajk?ext=contest"  alt="Sanjay k" >
   </td>
 </tr>
 </table>
