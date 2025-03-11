@@ -91,7 +91,7 @@
       </p>
     </td>
       <td>
-    <p>Leetcode Stats</p>
+    <h3 align="center"><strong>Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs</strong></h3>
     <img src="https://leetcard.jacoblin.cool/Sanjayrajk?ext=activity"  alt="Sanjay k" >
   </td>
 </tr>
