@@ -64,20 +64,20 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-  <a href="mailto:j.jeyachandran072@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="j.jeyachandran072@gmail.com" />
+  <a href="mailto:ksanjayias@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="ksanjayias@gmail.com" />
   </a>
-  <a href="https://www.instagram.com/jeyan572" target="_blank">
-    <img src="./instagram (1).png" width="50" height="50" alt="jeyan572" />
+  <a href="https://www.instagram.com/____._sanjay_._____" target="_blank">
+    <img src="./instagram (1).png" width="50" height="50" alt="sanjay" />
   </a>
-  <a href="https://www.github.com/jeyachandranj" target="_blank">
-    <img src="./github (1).png" width="50" height="50" alt="jeyachandranj" />
+  <a href="https://github.com/Sanjayraj-k" target="_blank">
+    <img src="./github (1).png" width="50" height="50" alt="Sanjay k" />
   </a>
-  <a href="https://linkedin.com/in/jeyachandran-j-638573259" target="_blank">
+  <a href="www.linkedin.com/in/sanjayraj-k" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
   </a>
-  <a href="https://leetcode.com/u/jeyachandran72/" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="jeyachandran72" />
+  <a href="https://leetcode.com/u/Sanjayrajk/" target="_blank">
+    <img src="./leetcode.png" width="50" height="50" alt="Sanjay k" />
   </a>
   
   </a>
