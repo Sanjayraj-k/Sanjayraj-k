@@ -88,15 +88,9 @@
     </a>
   </p>
 </td>
-
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Sanjayraj-k">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjayraj-k&repo=chatbot&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="CryptoWallet" />
-        </a>
-      </p>
-    </td>
+  <td>
+    ![](https://leetcard.jacoblin.cool/Sanjayrajk?ext=contest)
+  </td>
 </tr>
 </table>
 <br />
