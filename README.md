@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *ksanjayias@gmail.com*
 
-- 📄 Know about my Resume [Resume Link](https://github.com/jeyachandranj/resume/blob/main/Jeyachandran.pdf)
+- 📄 Know about my Resume [Resume Link](https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/Resume.pdf)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sanjayraj-k&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" alt="Sanjay k" style="padding-right:20px;" />
@@ -58,7 +58,8 @@
 
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ ᴀɴᴅ Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs 📊</h2>
+
 
 <table width="100%">
   <tr>
@@ -78,7 +79,9 @@
         </a>
       </p>
     </td>
-  <td>
+  </tr>
+    <tr>
+      <td>
     <p>Leetcode Stats</p>
     <img src="https://leetcard.jacoblin.cool/Sanjayrajk?ext=activity"  alt="Sanjay k" >
   </td>
