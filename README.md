@@ -57,9 +57,18 @@
 <br />
 
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ ᴀɴᴅ Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs 📊</h2>
 
+  <h2 align="center"> Leetcode Stats </h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+</p>
+
+
+
+
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -74,35 +83,29 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Sanjayraj-k">
-          <img align="center" src="https://streak-stats.demolab.com?user=Sanjayraj-k&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
+  <a href="https://github.com/Sanjayraj-k">
+    <img align="center" src="https://streak-stats.demolab.com?user=Sanjayraj-k&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+  </a>
+</p>
     </td>
   </tr>
-    <tr>
-      r>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/jeyachandranj/TalenLens.git">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Sanjayraj-k&repo=LLM-Chatbot&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="TalenLens" />
-        </a>
-      </p>
-    </td>
-      <td>
-    <h3 align="center"><strong>Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs</strong></h3>
-    <img src="https://leetcard.jacoblin.cool/Sanjayrajk?ext=activity"  alt="Sanjay k" >
-  </td>
-</tr>
 </table>
 <br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
 
 
 
