@@ -1,4 +1,4 @@
-![Sanjay  Banner Image](./banner.png)
+![Sanjay  Banner Image](./a12.jpg)
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -60,7 +60,7 @@
 
   <h2 align="center"> Leetcode Stats </h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shimal07?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Sanjayrajk?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 
