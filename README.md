@@ -15,7 +15,7 @@
 - 📄 Know about my Resume [Resume Link](https://github.com/jeyachandranj/resume/blob/main/Jeyachandran.pdf)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jeyachandranj&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="jeyachandranj" style="padding-right:20px;" />
+  ![](https://hit.yhype.me/github/profile?account_id=155231012)
 </p>
 
 ---
