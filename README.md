@@ -11,6 +11,8 @@
 - 💬 Ask me about *REACT JS, NODE JS, MONGODBt*
 
 - 📫 How to reach me *ksanjayias@gmail.com*
+ 
+- 🤖 Engineering At **Kongu Engineering College**
 
 - 📄 Know about my Resume [Resume Link](https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/Resume.pdf)
 
