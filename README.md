@@ -71,7 +71,7 @@
     <img src="./instagram (1).png" width="50" height="50" alt="jeyan572" />
   </a>
   <a href="https://www.github.com/jeyachandranj" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="jeyachandranj" />
+    <img src="./github (1).png" width="50" height="50" alt="jeyachandranj" />
   </a>
   <a href="https://linkedin.com/in/jeyachandran-j-638573259" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
