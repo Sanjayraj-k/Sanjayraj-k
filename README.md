@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Fullstack developer and AI developer</h3>
 - 🌱 I’m currently learning **LLM-Langraph **
 
-- 💬 Ask me about *REACT JS, NODE JS, MONGODBt*
+- 💬 Ask me about *REACT JS,MONGODB,LANGGRAPH*
 
 - 📫 How to reach me *ksanjayias@gmail.com*
  
