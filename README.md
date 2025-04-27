@@ -16,7 +16,7 @@
  
 - 🤖 Engineering At **Kongu Engineering College**
 
-- 📄 Know about my Resume [Resume Link](https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/Resume.pdf)
+- 📄 Know about my Resume [Resume Link](https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/SANJAY%20RESUME.pdf)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sanjayraj-k&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" alt="Sanjay k" style="padding-right:20px;" />
