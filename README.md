@@ -122,7 +122,7 @@
   <a href="mailto:ksanjayias@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="ksanjayias@gmail.com" />
   </a>
-  <a href="https://www.instagram.com/.sanjay._" target="_blank">
+  <a href="https://www.instagram.com/____._sanjay_._____/" target="_blank">
     <img src="./instagram (1).png" width="50" height="50" alt="sanjay" />
   </a>
   <a href="https://github.com/Sanjayraj-k" target="_blank">
