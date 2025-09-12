@@ -105,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Subicharan1018&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanjayraj-k&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
