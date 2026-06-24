@@ -66,11 +66,12 @@
 
 | 🚀 Project | 🛠️ Tech Stack | 📝 Highlights |
 | :--- | :--- | :--- |
-| **Ticket Booking Chatbot for Museum** | React, Flask, Chroma, MySQL, Razorpay, OpenRouteService, LLaMA, LlamaIndex, Whatsapp API | • Built an AI-powered chatbot for WhatsApp and web, enabling end-to-end museum ticket booking using LLMs and RAG.<br>• Integrated Razorpay, OpenRouteService, and MongoDB for payments, route guidance, and booking automation. |
-| **Next-Gen Automated Interview Hub** | React, FastAPI, MongoDB, LangChain, LangGraph, LLaMA, Whisper, OpenCV, Chroma, Docker | • Designed an AI-based interview simulator with adaptive questioning and real-time feedback using LangChain and LLaMA.<br>• Integrated speech-to-text, face detection, ATS resume analysis, and interview proctoring. |
-| **AI-Powered Photo Management Platform** | React, Flask, MongoDB, MTCNN, FaceNet, CLIP, Google Drive API, Chrome Extension | • Developed a facial recognition system using MTCNN and FaceNet achieving 98% accuracy.<br>• Integrated Google Drive API and built a Chrome Extension for instant face-based photo retrieval. |
-| **Intelligent Cybercrime Analysis System** | React, Flask, LangChain, LangGraph, LLaMA, Neo4j, Redis, XGBoost, Chrome Extension, Firecrawl | • Built an AI-based phishing detection system using XGBoost and Google Safe Browsing to identify malicious URLs and emails via a Chrome Extension and Flask API.<br>• Created a CyberSafety AI platform using multimodal LLMs to classify cybercrime cases, assess risk levels, validate evidence, and automate complaint routing. |
-| **Event Management System** | MySQL, Express.js, React.js, Node.js, Razorpay, JWT | • Built a MERN-based event platform enabling registrations, payments, and certificate downloads.<br>• Implemented role-based approvals and admin-controlled event and hall management. |
+| **AI Quiz Generator & Proctoring System** | React, Node.js, Express, Groq LLaMA 4, Google Forms | <p align="justify">Developed an AI quiz generator integrated with Google Forms, featuring advanced proctoring like face tracking and speech monitoring.</p> |
+| **Ticket Booking Chatbot for Museum** | React, Flask, Chroma, MySQL, Razorpay, OpenRouteService, LLaMA, LlamaIndex, Whatsapp API | <p align="justify">Built a chatbot for WhatsApp and web that automates museum ticket bookings, route guidance, and payment integrations.</p> |
+| **Next-Gen Automated Interview Hub** | React, FastAPI, MongoDB, LangChain, LangGraph, LLaMA, Whisper, OpenCV, Chroma, Docker | <p align="justify">Created an AI interview simulator featuring adaptive questioning, real-time proctoring, face detection, and resume analysis.</p> |
+| **AI-Powered Photo Management Platform** | React, Flask, MongoDB, MTCNN, FaceNet, CLIP, Google Drive API, Chrome Extension | <p align="justify">Developed a facial recognition photo organizer with a Chrome extension for automated image retrieval.</p> |
+| **Intelligent Cybercrime Analysis System** | React, Flask, LangChain, LangGraph, LLaMA, Neo4j, Redis, XGBoost, Chrome Extension, Firecrawl | <p align="justify">Built an AI phishing detector and a multimodal safety platform to classify cybercrimes and automate complaint routing.</p> |
+| **Event Management System** | MySQL, Express.js, React.js, Node.js, Razorpay, JWT | <p align="justify">Created a MERN-based platform for event registration and ticket sales with role-based dashboard approvals.</p> |
 
 <br />
 
@@ -81,19 +82,19 @@
 
 | 🏁 Event | 🏅 Achievement | 🚀 Highlights | 📅 Year |
 | :--- | :--- | :--- | :--- |
-| **Cybot Fusion'26** – Kongu Engineering College | 🥈 2nd Prize | Real Time Phishing Detection | 2026 |
-| **CSI 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | Cyber Security In Email | 2026 |
-| **HCS Coding Challenge** – Kongu Engineering College | 🥈 2nd Prize | Hackathon Project | 2026 |
-| **Eareyes 2k26** – Kongu Engineering College | 🥇 1st Prize | paper presentation and project presentation | 2026 |
-| **GEG** – Kongu Engineering College | 🥇 1st Prize | paper presentation | 2026 |
-| **SRCAS Hackathon 2.0** – Sri Ramakrishna College of Arts and Science | 🥇 1st Prize | LLM for Cyber Issue SOPs | 2025 |
-| **Newells2K25** – Kongu Engineering College | 🥇 1st Prize | AI Mock Interviewer | 2025 |
-| **GEN AI Cognitive Hackathon** – Kongu Engineering College | 🥇 1st Prize | StudyMate - AI Study Assistant | 2025 |
-| **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | NETGEN AUTOMATED INTERVIEW HUB | 2025 |
-| **CSI Project Expo** – Kongu Engineering College | 🥇 1st Prize | Museum Ticket Chatbot | 2025 |
-| **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | AI Quiz Generator | 2025 |
-| **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | Face Album Matching | 2025 |
-| **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | Complex DSA Problem Solving | 2024 |
+| **Cybot Fusion'26 (Hackathon)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Real Time Phishing Detection</p> | 2026 |
+| **CSI 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Cyber Security In Email</p> | 2026 |
+| **HCS Coding Challenge** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Hackathon Project</p> | 2026 |
+| **Eareyes 2k26** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation and project presentation</p> | 2026 |
+| **GEG** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation</p> | 2026 |
+| **SRCAS Hackathon 2.0** – Sri Ramakrishna College of Arts and Science | 🥇 1st Prize | <p align="justify">LLM for Cyber Issue SOPs</p> | 2025 |
+| **Newells2K25** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Mock Interviewer</p> | 2025 |
+| **GEN AI Cognitive Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">StudyMate - AI Study Assistant</p> | 2025 |
+| **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | <p align="justify">NETGEN AUTOMATED INTERVIEW HUB</p> | 2025 |
+| **CSI Project Expo** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Museum Ticket Chatbot</p> | 2025 |
+| **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Quiz Generator</p> | 2025 |
+| **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Face Album Matching</p> | 2025 |
+| **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | <p align="justify">Complex DSA Problem Solving</p> | 2024 |
 
 <br />
 
