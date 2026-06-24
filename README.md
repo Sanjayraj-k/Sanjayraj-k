@@ -84,26 +84,40 @@
 
 | 🏁 Event | 🏅 Achievement | 🚀 Highlights | 📅 Year |
 | :--- | :--- | :--- | :--- |
-| **Cybot Fusion'26 (Hackathon)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Real Time Phishing Detection</p> | 2026 |
-| **CSI 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Cyber Security In Email</p> | 2026 |
-| **HCS Coding Challenge** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Hackathon Project</p> | 2026 |
-| **Eareyes 2k26** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation and project presentation</p> | 2026 |
-| **GEG** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation</p> | 2026 |
-| **SRCAS Hackathon 2.0** – Sri Ramakrishna College of Arts and Science | 🥇 1st Prize | <p align="justify">LLM for Cyber Issue SOPs</p> | 2025 |
-| **Newells2K25** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Mock Interviewer</p> | 2025 |
-| **GEN AI Cognitive Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">StudyMate - AI Study Assistant</p> | 2025 |
-| **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | <p align="justify">NETGEN AUTOMATED INTERVIEW HUB</p> | 2025 |
-| **CSI Project Expo** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Museum Ticket Chatbot</p> | 2025 |
-| **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Quiz Generator</p> | 2025 |
-| **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Face Album Matching</p> | 2025 |
-| **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | <p align="justify">Complex DSA Problem Solving</p> | 2024 |
+| 🔒 **Cybot Fusion'26 (Hackathon)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Real Time Phishing Detection</p> | 2026 |
+| 💻 **CSI 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Cyber Security In Email</p> | 2026 |
+| 🏆 **HCS Coding Challenge (Coding Competition)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Coding Competition</p> | 2026 |
+| 📢 **Eareyes 2k26** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation and project presentation</p> | 2026 |
+| 📄 **GEG** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">paper presentation</p> | 2026 |
+| 🤖 **SRCAS Hackathon 2.0** – Sri Ramakrishna College of Arts and Science | 🥇 1st Prize | <p align="justify">LLM for Cyber Issue SOPs</p> | 2025 |
+| 🗣️ **Newells2K25** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Mock Interviewer</p> | 2025 |
+| 🧠 **GEN AI Cognitive Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">StudyMate - AI Study Assistant</p> | 2025 |
+| ⚡ **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | <p align="justify">NETGEN AUTOMATED INTERVIEW HUB</p> | 2025 |
+| 💡 **CSI Project Expo** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Museum Ticket Chatbot</p> | 2025 |
+| ⚙️ **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Quiz Generator</p> | 2025 |
+| 👁️ **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Face Album Matching</p> | 2025 |
+| 🧩 **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | <p align="justify">Complex DSA Problem Solving</p> | 2024 |
 
 <br />
 
 ---
 
+<!--Certifications Section-->
+<h2 align="center">📜 Cᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴs 📜</h2>
+
+<div align="center">
+  <ul style="list-style-type: none; padding: 0; display: inline-block; text-align: left;">
+    <li>☕ <b>Oracle Java SE 17 Developer</b> – Oracle</li>
+    <li>🍃 <b>MongoDB Associate Developer</b> – MongoDB</li>
+    <li>🤖 <b>Oracle AI Foundations Associate</b> – Oracle</li>
+    <li>📊 <b>Oracle APEX Developer</b> – Oracle</li>
+    <li>☁️ <b>AWS Cloud Practitioner Essentials</b> – Amazon Web Services (AWS)</li>
+  </ul>
+</div>
+
 <br />
-<br />
+
+---
 
 
 
@@ -146,19 +160,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
-<h3 align="center">Passionate Curiosity-Driven Learner</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sanjayraj-k&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
-  </a>
-</p>
-
-
-
-
-
-
 
 <!--Contact Section--> 
 
