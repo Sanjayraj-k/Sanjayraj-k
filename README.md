@@ -1,22 +1,24 @@
 ![Sanjay  Banner Image](./a12.jpg)
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Illustration">
 </div>
 
-<h1 align="center">Hi 👋, I'm SANJAY K </h1>
-<h3 align="center">A passionate Fullstack developer and AI developer</h3>
-<a href="https://sanjayk.vercel.app/"><h3>Portfolio</h3></a>
-<p>https://sanjayk.vercel.app/</p>
-- 🌱 I’m currently learning **LLM-Langraph **
+<h1 align="left">Hi 👋, I'm SANJAY K</h1>
+<h3 align="left">Fullstack Developer & AI Engineer</h3>
 
-- 💬 Ask me about *REACT JS,MONGODB,LANGGRAPH*
+<p align="left">
+  <a href="https://sanjayk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sanjayk.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white&color=4F46E5" alt="Portfolio" /></a>
+  <a href="https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=EF4444" alt="Resume" /></a>
+  <a href="mailto:ksanjayias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ksanjayias@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white&color=10B981" alt="Email" /></a>
+</p>
 
-- 📫 How to reach me *ksanjayias@gmail.com*
- 
-- 🤖 Engineering At **Kongu Engineering College**
+- 🤖 **B.Tech AI & ML Student** at **Kongu Engineering College**
+- 🌱 Currently exploring **Agentic AI** & workflow automation with **LangGraph**
+- 💬 Ask me about **React.js**, **Express**, **MongoDB**, **LangChain**, and **LangGraph**
+- 📫 Connect with me at **ksanjayias@gmail.com**
 
-- 📄 Know about my Resume [Resume Link](https://github.com/Sanjayraj-k/Sanjayraj-k/blob/main/Resume.pdf)
+<br/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Sanjayraj-k&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" alt="Sanjay k" style="padding-right:20px;" />
