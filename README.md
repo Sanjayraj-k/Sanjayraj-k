@@ -1,11 +1,12 @@
-![Sanjay  Banner Image](./banner.jpg)
+![Sanjay Banner Image](./banner.jpg)
 
 <div>
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Illustration">
 </div>
 
-<h1 align="left">Hi 👋, I'm SANJAY K</h1>
-<h3 align="left">Fullstack Developer & AI Engineer</h3>
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4F46E5&width=435&lines=Hi+👋%2C+I'm+SANJAY+K;Fullstack+Developer;AI+Engineer;Agentic+AI+Developer" alt="Typing SVG" /></a>
+</h1>
 
 <p align="left">
   <a href="https://sanjayk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sanjayk.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white&color=4F46E5" alt="Portfolio" /></a>
@@ -14,6 +15,7 @@
 </p>
 
 - 🤖 **B.Tech AI & ML Student** at **Kongu Engineering College**
+- 🎯 **Areas of Interest**: Machine Learning, Agentic AI, Generative AI
 - 🌱 Currently exploring **Agentic AI** & workflow automation with **LangGraph**
 - 💬 Ask me about **React.js**, **Express**, **MongoDB**, **LangChain**, and **LangGraph**
 - 📫 Connect with me at **ksanjayias@gmail.com**
@@ -57,7 +59,7 @@
 
 <h3 align="left">Core Technologies</h3>
 <ul>
-  <li><span>Machine Learning, Deep Learning, Computer Vision, NLP</span></li>
+  <li><span>Machine Learning, Deep Learning, Generative AI, Agentic AI, Computer Vision, NLP</span></li>
 </ul>
 <br />
 
