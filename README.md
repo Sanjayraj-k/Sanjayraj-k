@@ -130,10 +130,29 @@
 
 
 
-  <h2 align="center">Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs</h2>
+<h2 align="center">Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs & Bᴀᴅɢᴇs</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sanjayrajk?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
+
+<br />
+
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="95"/>
+
+  <br><br>
+
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="95"/>
+</div>
 
 
 
