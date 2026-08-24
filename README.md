@@ -96,15 +96,16 @@
 | ⚙️ **CSD 24 Hour Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">AI Quiz Generator</p> | 2025 |
 | 👁️ **Exodica Hackathon** – Kongu Engineering College | 🥇 1st Prize | <p align="justify">Face Album Matching</p> | 2025 |
 | 🔒 **Cybot Fusion'26 (Hackathon)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Real Time Phishing Detection</p> | 2026 |
+| 💡 **Proof of Concept 2k26** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Intelligent Cybercrime Analysis System</p> | 2026 |
 | 🏆 **HCS Coding Challenge (Coding Competition)** – Kongu Engineering College | 🥈 2nd Prize | <p align="justify">Coding Competition</p> | 2026 |
 | 🧩 **KGISL Coding Contest** – KGISL Institute | 🥈 2nd Prize | <p align="justify">Complex DSA Problem Solving</p> | 2024 |
 | ⚡ **IEEE Version -3.0** – Kongu Engineering College | 🥉 3rd Prize | <p align="justify">NETGEN AUTOMATED INTERVIEW HUB</p> | 2025 |
 
 <p align="center">
   <b>🏆 Hackathons:</b> 6 Wins (5x 🥇, 1x 🥈) &nbsp;|&nbsp; 
-  <b>📢 Paper & Project Expos:</b> 4 Wins (4x 🥇) &nbsp;|&nbsp; 
+  <b>📢 Paper & Project Expos:</b> 5 Wins (4x 🥇, 1x 🥈) &nbsp;|&nbsp; 
   <b>💻 Coding Competitions:</b> 2 Wins (2x 🥈) &nbsp;|&nbsp;
-  <b>⚡ Technical Symposiums:</b> 1 Win (1x 🥉)
+  <b>⚡ Technical Symposiums:</b> 1 Win (2x 🥈)
 </p>
 
 <br />
