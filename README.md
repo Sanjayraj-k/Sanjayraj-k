@@ -105,7 +105,7 @@
   <b>🏆 Hackathons:</b> 6 Wins (5x 🥇, 1x 🥈) &nbsp;|&nbsp; 
   <b>📢 Paper & Project Expos:</b> 5 Wins (4x 🥇, 1x 🥈) &nbsp;|&nbsp; 
   <b>💻 Coding Competitions:</b> 2 Wins (2x 🥈) &nbsp;|&nbsp;
-  <b>⚡ Technical Symposiums:</b> 1 Win (2x 🥈)
+  <b>⚡ Technical Symposiums:</b> 1 Win (1x 🥈,1x 🥇)
 </p>
 
 <br />
