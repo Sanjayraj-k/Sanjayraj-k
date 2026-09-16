@@ -1,3 +1,4 @@
+```markdown
 ![Sanjay Banner Image](./banner.jpg)
 
 <div>
@@ -26,11 +27,10 @@
   <img src="https://komarev.com/ghpvc/?username=Sanjayraj-k&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" alt="Sanjay k" style="padding-right:20px;" />
 </p>
 
-
 ---
 
-
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -61,6 +61,7 @@
 <ul>
   <li><span>Machine Learning, Deep Learning, Generative AI, Agentic AI, Computer Vision, NLP</span></li>
 </ul>
+
 <br />
 
 ---
@@ -129,9 +130,8 @@
 
 ---
 
-
-
 <h2 align="center">Lᴇᴇᴛᴄᴏᴅᴇ Sᴛᴀᴛs & Bᴀᴅɢᴇs</h2>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sanjayrajk?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
 </p>
@@ -139,6 +139,12 @@
 <br />
 
 <div align="center">
+
+  <!-- New LeetCode Badges -->
+  <img src="https://assets.leetcode.com/static_assets/marketing/8.gif" width="95"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" width="95"/>
+
+  <!-- Existing LeetCode Badges -->
   <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="95"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="95"/>
   <img src="https://assets.leetcode.com/static_assets/others/2026_200.gif" width="95"/>
@@ -153,11 +159,12 @@
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="95"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="95"/>
   <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="95"/>
+
 </div>
 
+<br />
 
-
-
+---
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -172,59 +179,58 @@
         </a>
       </p>
     </td>
+
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-  <a href="https://github.com/Sanjayraj-k">
-    <img align="center" src="https://streak-stats.demolab.com?user=Sanjayraj-k&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-  </a>
-</p>
+        <a href="https://github.com/Sanjayraj-k">
+          <img align="center" src="https://streak-stats.demolab.com?user=Sanjayraj-k&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 <!--Contact Section--> 
 
-
-
-
-
-
-<!--Contact Section--> 
-
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+
   <a href="mailto:ksanjayias@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="ksanjayias@gmail.com" />
   </a>
+
   <a href="https://www.instagram.com/____._sanjay_._____/" target="_blank">
     <img src="./instagram (1).png" width="50" height="50" alt="sanjay" />
   </a>
+
   <a href="https://github.com/Sanjayraj-k" target="_blank">
     <img src="./github (1).png" width="50" height="50" alt="Sanjay k" />
   </a>
+
   <a href="https://www.linkedin.com/in/sanjayraj-k/" target="_blank">
     <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
   </a>
+
   <a href="https://leetcode.com/u/Sanjayrajk/" target="_blank">
     <img src="./leetcode.png" width="50" height="50" alt="Sanjay k" />
   </a>
-  
-  </a>
-</div>
-
-
 
 </div>
+
 <br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+```
